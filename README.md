@@ -40,7 +40,7 @@ python manage.py migrate
 # Start server
 python manage.py runserver
 
-## Run Docker
+## Run Docker image
 docker build -t course-manager-backend .
 docker run -p 8000:8000 course-manager-backend
 
