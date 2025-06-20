@@ -26,7 +26,7 @@ This is the Django REST backend for managing courses and their delivery instance
 <div align="center">
   <img src="images/django_courses.PNG" alt="View Courses" width="600" />
   <img src="images/django_list.PNG" alt="View Instances by Year and Sem" width="600" />
-  <img src="images/django_instancePNG" alt="View Course Instance" width="600" />
+  <img src="images/django_instance.PNG" alt="View Course Instance" width="600" />
   <img src="images/django_instance_detail.PNG" alt="View Instance Details" width="600" />
 </div>
 
