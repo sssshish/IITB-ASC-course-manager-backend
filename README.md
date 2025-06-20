@@ -5,11 +5,9 @@ This is the Django REST backend for managing courses and their delivery instance
 ## Features
 
 - Django REST Framework-based API
-- CRUD operations for:
-  - Courses
-  - Course Instances (filtered by year and semester)
+- CRUD operations for Courses and Course Instances (filtered by year and semester)
 - SQLite database for development
-- CORS enabled for local frontend development
+- CORS enabled for local frontend 
 
 ## API Endpoints
 
